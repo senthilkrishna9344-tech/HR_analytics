@@ -64,10 +64,6 @@ HR Analytics Dataset containing employee details such as:
 - Dashboard Design
 - HR Data Analysis
 
-## 📸 Dashboard Preview
-
-(Add a screenshot of your completed dashboard here.)
-
 ## 👨‍💻 Author
 
 **Senthil Krishna S**
